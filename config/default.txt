@@ -1,0 +1,10 @@
+Pikachu 1000
+Torchic 900
+Mudkip 800
+Treecko 700
+Geodude 600
+Heracross 500
+Rhydon 400
+Dusclops 300
+Psyduck 200
+Magikarp 100
