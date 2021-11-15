@@ -7,7 +7,6 @@
 #include <assimp/scene.h>
 #include <assimp/postprocess.h>
 #include <assimp/color4.h>
-#include <Magick++.h>
 #include <btBulletDynamicsCommon.h>
 
 #define GL_DO_NOT_WARN_IF_MULTI_GL_VERSION_HEADERS_INCLUDED
@@ -28,6 +27,8 @@
 #include <glm/gtx/rotate_vector.hpp>
 
 #define INVALID_UNIFORM_LOCATION 0x7fffffff
+
+#include <Magick++.h>
 
 struct Vertex
 {
